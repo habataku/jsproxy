@@ -1,1 +1,1 @@
-<?php include_once("index_v3.html"); ?>
+<?php include_once("/assets/index_v3.html"); ?>
