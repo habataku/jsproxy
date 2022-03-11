@@ -5,7 +5,7 @@
     { "src": "*.html","use": "@vercel/static" }
   ],
   "routes": [
-    { "src": "/","dest": "/index.html" },
+    { "src": "/","dest": "/assets/index_v3.html" },
     { "src": "/.*","dest": "/conf.js" }
   ]
 }
