@@ -35,7 +35,6 @@ jsproxy_config({
     // 该节点用于加载大体积的静态资源
     'cfworker': {
       label: 'workers',
-      hidden: true,
       lines: {
         'yt.kimini01.workers.dev'：1
         // 收费版（高权重）
@@ -54,7 +53,7 @@ jsproxy_config({
   /**
    * 默认节点
    */
-  node_default: 'cfworker',
+  node_default: 'mysite',
   // node_default: /jsproxy-demo\.\w+$/.test(location.host) ? 'demo-hk' : 'mysite',
 
   /**
