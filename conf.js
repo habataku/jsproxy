@@ -37,6 +37,7 @@ jsproxy_config({
       label: '',
       hidden: true,
       lines: {
+        'b.jsproxy.workers.dev': 1
         // 收费版（高权重）
         //'node-cfworker-2.etherdream.com': 4,
 
@@ -68,7 +69,7 @@ jsproxy_config({
   // assets_cdn: 'https://cdn.jsdelivr.net/gh/zjcqoo/zjcqoo.github.io@master/assets/',
 
   // 本地测试时打开，否则访问的是线上的
-  assets_cdn: 'assets/',
+  assets_cdn: '/',
 
   // 首页路径
   index_path: 'index_v3.html',
