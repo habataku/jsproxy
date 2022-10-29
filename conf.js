@@ -36,7 +36,7 @@ jsproxy_config({
     'cfworker': {
       label: 'workers',
       lines: {
-        'jsproxy-serverless-eight.vercel.app': 1,
+        'https://alloyhdjejeje.vercel.app/web/_aHR0cHM6Ly9vbWFua28ubWVuZGUud29ya2Vycy5kZXY=_/': 1,
         // 收费版（高权重）
         //'node-cfworker-2.etherdream.com': 4,
 
